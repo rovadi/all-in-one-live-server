@@ -15,7 +15,7 @@
 
 <p align="center">
     <a align="center" href="https://github.com/rovadi/all-in-one-live-server">
-      <img src="images/all-in-one-live-server.svg" alt="All in One live server" width="80" height="80">
+      <img src="all-in-one-live-server.svg" alt="All in One live server" width="120">
     </a>
     <h1 align="center">All in One live server</h1>
 </p>
